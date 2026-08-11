@@ -12,7 +12,7 @@ env:
   ACR_NAME: apexregistry001
   ACR_LOGIN_SERVER: apexregistry001.azurecr.io
   IMAGE_NAME: apex-app
-  APP_DIR: apex-python-monolith
+  APP_DIR: app
 
 jobs:
   ci:
